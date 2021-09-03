@@ -26,3 +26,7 @@ if (process.env.NODE_ENV === "production") {
 }
 
 app.listen(port, () => console.log(`Listening on port ${port}`));
+
+// use cors
+// sequelize
+// router, env, db

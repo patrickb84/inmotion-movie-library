@@ -16,7 +16,7 @@
   },
   "scripts": {
     "client": "cd client && yarn start",
-    "start": "node server.js",
-    "develop": "nodemon server.js"
+    "start": "node index.js",
+    "develop": "nodemon index.js"
   }
 }

@@ -21,3 +21,9 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+/server/client/node_modules
+/server/client/build
+/server/client/npm-debug.log*
+/server/client/yarn-debug.log*
+/server/client/yarn-error.log*
